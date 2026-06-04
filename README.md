@@ -1,35 +1,36 @@
-# codealpha-portfolio
-README
-Personal Portfolio Website
-A modern and responsive personal portfolio website developed using HTML, CSS and JavaScript.
+# Personal Portfolio 🌐
 
-Features
-Responsive Modern UI
-Interactive Animations
-Smooth Scrolling Navigation
-Typing Text Animation
-Project Showcase Section
-Skills Section
-Contact Section
-Glassmorphism Design
-Fully Responsive Layout
-Technologies Used
-HTML5
-CSS3
-JavaScript
-Included Projects
-Modern Calculator Web Application
-Interactive Image Gallery
-SHEild - Women Safety Application
-Vyuha Hackathon Project
-AirAware - NASA Space Apps Challenge Project
-Project Preview
-This portfolio demonstrates frontend development concepts including:
+This is my **personal portfolio website**, built using **HTML, CSS, and JavaScript**.  
+It showcases my skills, projects, and achievements in web development and beyond.
 
-Responsive Web Design
-DOM Manipulation
-Interactive UI Development
-CSS Animations
-Modern UI/UX Principles
-Developed As
-Frontend Development Internship Task at CodeAlpha.
+## 🚀 Features
+- Responsive design for desktop and mobile
+- Clean and modern UI with smooth navigation
+- Sections for:
+  - 👩‍💻 About Me
+  - 🛠️ Skills
+  - 📂 Projects
+  - 📞 Contact
+- Interactive elements using JavaScript
+- Easy to customize and expand
+
+## 🛠️ Technologies Used
+- **HTML5** → Structure and semantic layout
+- **CSS3** → Styling, animations, and responsiveness
+- **JavaScript (ES6)** → Interactivity and dynamic content
+
+## 📂 File Structure
+
+## 📸 Demo
+Open `index.html` in your browser to explore the portfolio.  
+You can deploy it using **GitHub Pages**, **Netlify**, or **Vercel**.
+
+## 💡 Future Improvements
+- Add a blog section for sharing insights
+- Integrate contact form with backend (Node.js / Firebase)
+- Include animations and transitions for better UX
+- Dark mode toggle for accessibility
+
+## 🏆 Credits
+Developed as part of my learning journey and professional showcase.
+
